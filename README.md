@@ -1,6 +1,4 @@
-# FdF
-
-Welcome to **FdF**, a completed project by [qaneee](https://github.com/qaneee).
+#**Welcome to **FdF****
 
 ## Overview
 
@@ -26,7 +24,7 @@ Welcome to **FdF**, a completed project by [qaneee](https://github.com/qaneee).
    - Run the provided build scripts or use the published instructions:
      ```bash
      make
-
+     ```
      
 3. **Run the executable:**
    ```bash
